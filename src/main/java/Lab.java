@@ -23,5 +23,6 @@ public class Lab {
         return Math.pow(a,b);
         
         
+        
     }
 }
